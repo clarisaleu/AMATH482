@@ -25,3 +25,9 @@ ideas of principal component analysis, linear discriminant analysis, support vec
 paper - as well as provide directions for future work on this problem.*<br/>Note, dataset can be found at http://yann.lecun.com/exdb/mnist/.
 
 - **Assignment #5 - Background Subtraction in Video Streams** <br/>
+*In this paper, we look at two dif erent videos - where the first video is an eight-second long clip of a skier dropping
+down a mountain and the second video is a six-second long clip of the Monte Carlo race for Formula 1. Our goal
+when analyzing these two videos is to apply the concepts of dynamic mode decomposition (DMD) in order to separate
+the background of these videos from the foreground - where DMD is a very powerful tool/algorithm when it comes to
+the analysis of nonlinear systems. We explore the ideas of video processing, singular value decomposition (SVD), and
+DMD in this paper - and provide directions for future work on this problem as well.*
