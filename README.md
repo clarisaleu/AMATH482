@@ -1,5 +1,5 @@
 # AMATH 482 - Computational Methods For Data Analysis
-This repository contains all of the projects for AMATH482 taught by Jason Bramburger (jbrambur@uw.edu) at the University of Washington - Winter 2021.
+This repository contains all of the projects for AMATH482 taught by Jason Bramburger (jbrambur@uw.edu) at the University of Washington - Winter 2021. Please email me at clarisaleu@gmail.com for questions or for access to datasets not included.
 
 ### Assignment Descriptions:
 - **Assignment #1 - A Submarine Problem** <br/>
